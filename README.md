@@ -1,4 +1,4 @@
-# Edm2023
+# EDM 2023: Investigating the Importance of Demographic Features for EDM-Predictions
 
 To reproduce the results reported in the paper, one must:
 
